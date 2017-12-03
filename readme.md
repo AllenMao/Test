@@ -36,6 +36,6 @@
 
 ### 下周TO DO LIST
 
-* 1 再添加两个训练集合，继续car_googlenet_split5实验复现
+* 1 再添加两个训练集，继续car_googlenet_split5实验复现
 
 * 2 测试生成的goognet Inception  v1网络文件，能否与原来的实验能够达到一致的效果。
