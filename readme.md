@@ -32,10 +32,10 @@
 
     img_idx 10544
 
-* 2 实现了goognet Inception v1网络的prototxt文件生成器，并在原有框架基础上，能够正常实现一条命令式训练网络。
+* 2 实现了googlenet Inception v1网络的prototxt文件生成器，并在原有框架基础上，能够正常实现一条命令式训练网络。
 
 ### 下周TO DO LIST
 
 * 1 再添加两个训练集，继续car_googlenet_split5实验复现
 
-* 2 测试生成的goognet Inception  v1网络文件，能否与原来的实验能够达到一致的效果。
+* 2 测试生成的googlenet Inception  v1网络文件，能否与原来的实验能够达到一致的效果。
