@@ -4,7 +4,7 @@
 
 * 1 car_googlenet_split5实验复现
 
-1.1 解析训练日志，提取车品牌的测试精确度，生成曲线图：
+*1.1 解析训练日志，提取车品牌的测试精确度，生成曲线图：
     
 ![201705031514.png](https://github.com/AllenMao/Demo/blob/master/vgg_faceemotion_transferlearning/results/201705031514.png?raw=true)
     
