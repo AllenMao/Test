@@ -6,7 +6,7 @@
 
 > 1.1 解析训练日志，提取车品牌的测试精确度，生成曲线图：
     
-![201705031514.png](https://github.com/AllenMao/Demo/blob/master/vgg_faceemotion_transferlearning/results/201705031514.png?raw=true)
+![log.png](https://github.com/AllenMao/test/blob/master/log_googlenet_ml_test.log.png?raw=true)
     
 > 1.2 在含有10544张测试集中，运行投票测试结果：
 
@@ -36,4 +36,6 @@
 
 ### 下周TO DO LIST
 
-* 1 测试生成的goognet Inception  v1网络文件，能否与原来的实验能够达到一致的效果。
+* 1 再添加两个训练集合，继续car_googlenet_split5实验复现
+
+* 2 测试生成的goognet Inception  v1网络文件，能否与原来的实验能够达到一致的效果。
