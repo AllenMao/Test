@@ -36,4 +36,4 @@
 
 ### 下周TO DO LIST
 
-1 测试生成的goognet Inception  v1网络文件，能否与原来的实验能够达到一致的效果。
+* 1 测试生成的goognet Inception  v1网络文件，能否与原来的实验能够达到一致的效果。
