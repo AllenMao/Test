@@ -28,7 +28,9 @@
 
     img_idx 10544
 
+
 * 2 实现了googlenet Inception v1网络的prototxt文件生成器，并在原有框架基础上，能够正常实现一条命令式训练网络。
+
 
 ### 下周TO DO LIST
 
