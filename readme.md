@@ -14,11 +14,7 @@
 
     mid acc 0.943000758725
 
-    mid_main acc 0.966426403642
-
-    sub acc 0.913505311077 
- 
-    sub_main acc 0.968038694992
+    sub acc 0.913505311077
 
     super acc 0.97591047041
 
