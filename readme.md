@@ -8,7 +8,7 @@
     
 ![log.png](https://github.com/AllenMao/test/blob/master/log_googlenet_ml_test.log.png?raw=true)
     
-> 1.2 在含有10544张测试集中，进行投票测试结果：
+> 1.2 在含有10544张图像的测试集中，进行投票测试结果：
 
     main acc 0.958175265554
 
