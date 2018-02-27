@@ -7,12 +7,12 @@
 | resnet50_imagenet     | 0.9814   | 0.9827          | 0.9852       | 55.2      |
 
 #source
-model|top-1|top-5
-	:---:|:---:|:---:
-	VGG-16|28.5%|9.9%
-	ResNet-50|24.7%|7.8%
-	ResNet-101|23.6%|7.1%
-	ResNet-152|23.0%|6.7%
+| model|top-1|top-5|
+|:---:|:---:|:---:|
+| VGG-16|28.5%|9.9%|
+| ResNet-50|24.7%|7.8%|
+| ResNet-101|23.6%|7.1%|
+| ResNet-152|23.0%|6.7%|
 
 #复现
 | Model              | Top 5 Error | Top 1 Error |
