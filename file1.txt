@@ -1,9 +1,9 @@
 {  
-    "server":"104.225.238.89",
-    "server_port":28676,
+    "server":"104.225.xx.xx",
+    "server_port":xxxxx,
     "local_address": "127.0.0.1",
     "local_port":1080,  
-    "password":"031141416",
+    "password":"xxxxxx",
     "timeout":300,
     "method":"aes-256-cfb",
     "fast_open": true,
